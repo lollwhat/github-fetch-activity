@@ -35,3 +35,5 @@ Enter GitHub Username: octocat
 Starred octocat/Hello-World
 Pushed 1 commits to octocat/Hello-World
 ```
+
+** Project idea came from: https://roadmap.sh/projects/github-user-activity
